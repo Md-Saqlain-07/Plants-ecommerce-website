@@ -1,0 +1,26 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="#">
+    
+</head>
+<body>
+    <div class="container">
+ 
+  <div class="contact" id="contact">
+            <div class="head">
+                <h1>Contact <span>Us</span></h1>
+            </div>
+
+            <div class="contactPage">
+                <input type="text" placeholder="Enter Your Name" id="name"> <br>
+                <input type="password" placeholder="Enter Your password" id="pass"> <br>
+                <button id="submit">Submit</button>
+
+            </div>
+        </div>
+</div>
+</html>
